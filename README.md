@@ -39,9 +39,9 @@
 8. 자 거의 끝나간다. 이제는 pytorch를 설치할 시간이다. https://pytorch.org/ 에 들어가서 밑으로 내리면 pytorch를 어떻게 설치할지에 대한 설정을 하는 구간이 나오는데, 해당하는 것에 맞춰서 commend를 받아야한다. 
 
 
-   나의 경우,conda를 이용한 설치였기에 conda,python,windows, cuda버전은 솔직히 잘 모르겠다. 나는 운이좋게도 추천하는 cuda 버전과 여기서의 cuda 11.3과 맞아서 설치했지
+   나의 경우,conda를 이용한 설치였기에 conda,python,windows, cuda버전은 솔직히 잘 모르겠다. 
    
-   만, 아마 cuda10, 11에 따라서 사용하면 될 것으로 예상된다.
+   나는 운이좋게도 추천하는 cuda 버전과 여기서의 cuda 11.3과 맞아서 설치했지만, 아마 cuda10, 11에 따라서 사용하면 될 것으로 예상된다.
 
 9. 명령어를 anaconda prompt에 적어서 수행하면 된다. 그리고 이후에는 자신이 설치할 각종 라이브러리를 anaconda prompt에서 pip install 형태로 버전에 맞게 설치하면된다.
 
